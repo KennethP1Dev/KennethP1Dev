@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KennethP1Dev
 - 👀 I’m interested in mobile development and Blockchain
 - 🌱 I’m currently learning Flutter mobile development
+- 🎓 Studying computer science in university
 - 📫 How to reach me ...
 
 <!---
