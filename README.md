@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennethP1Dev
-- 👀 I’m interested in Game development
+- 👀 I’m interested in Game development (Pygame and Monogame)
 - 🌱 I’m currently learning Game development
 - 🎓 Studying computer science in university
 - 📫 How to reach me ...
